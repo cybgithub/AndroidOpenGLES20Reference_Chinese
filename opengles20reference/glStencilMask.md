@@ -1,0 +1,1 @@
+void glStencilMask (int mask)

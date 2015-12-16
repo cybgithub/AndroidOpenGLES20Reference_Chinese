@@ -1,0 +1,1 @@
+void glValidateProgram (int program)

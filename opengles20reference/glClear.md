@@ -1,0 +1,1 @@
+void glClear (int mask)

@@ -1,0 +1,1 @@
+void glGenerateMipmap (int target)

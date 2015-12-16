@@ -1,0 +1,1 @@
+int glCheckFramebufferStatus (int target)

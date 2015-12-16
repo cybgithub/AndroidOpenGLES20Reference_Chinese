@@ -1,0 +1,1 @@
+String glGetProgramInfoLog (int program)

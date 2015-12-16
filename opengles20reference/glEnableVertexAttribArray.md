@@ -1,0 +1,1 @@
+void glEnableVertexAttribArray (int index)

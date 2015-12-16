@@ -1,0 +1,1 @@
+void glDepthMask (boolean flag)

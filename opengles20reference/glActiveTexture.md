@@ -1,0 +1,1 @@
+void glActiveTexture (int texture)

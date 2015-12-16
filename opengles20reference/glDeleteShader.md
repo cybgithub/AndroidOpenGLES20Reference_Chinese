@@ -1,0 +1,1 @@
+void glDeleteShader (int shader)

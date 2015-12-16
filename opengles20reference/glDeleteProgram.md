@@ -1,0 +1,1 @@
+void glDeleteProgram (int program)

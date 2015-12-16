@@ -1,0 +1,1 @@
+boolean glIsTexture (int texture)

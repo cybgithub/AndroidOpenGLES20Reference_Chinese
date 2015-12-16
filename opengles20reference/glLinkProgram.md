@@ -1,0 +1,1 @@
+void glLinkProgram (int program)

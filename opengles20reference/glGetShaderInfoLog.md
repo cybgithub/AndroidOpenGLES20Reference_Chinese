@@ -1,0 +1,1 @@
+String glGetShaderInfoLog (int shader)

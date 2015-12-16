@@ -1,0 +1,1 @@
+boolean glIsProgram (int program)

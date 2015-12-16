@@ -1,0 +1,1 @@
+void glClearDepthf (float depth)

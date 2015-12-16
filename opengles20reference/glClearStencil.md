@@ -1,0 +1,1 @@
+void glClearStencil (int s)

@@ -1,0 +1,1 @@
+int glCreateShader (int type)

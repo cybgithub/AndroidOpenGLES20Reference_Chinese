@@ -1,0 +1,1 @@
+void glBlendEquation (int mode)

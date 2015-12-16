@@ -1,0 +1,1 @@
+void glDepthFunc (int func)

@@ -1,0 +1,1 @@
+boolean glIsBuffer (int buffer)

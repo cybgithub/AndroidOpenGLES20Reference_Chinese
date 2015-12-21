@@ -1,6 +1,6 @@
 # AndroidOpenGLES20Reference_Chinese
 
- * [glActiveTexture](opengles20reference/glActiveTexture.md) :$简介$
+ * [glActiveTexture](opengles20reference/glActiveTexture.md) : 选择一个活动的（Active）纹理（Texture）单元。
 
  * [glAttachShader](opengles20reference/glAttachShader.md) :$简介$
 

@@ -2,7 +2,7 @@
 
  * [glActiveTexture](opengles20reference/glActiveTexture.md) : 选择一个活动的（Active）纹理（Texture）单元。
 
- * [glAttachShader](opengles20reference/glAttachShader.md) :$简介$
+ * [glAttachShader](opengles20reference/glAttachShader.md) : 将一个着色器（Shader）对象绑定（Attach）到一个程序（Program）对象。
 
  * [glBindAttribLocation](opengles20reference/glBindAttribLocation.md) :$简介$
 

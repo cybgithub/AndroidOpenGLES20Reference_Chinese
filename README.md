@@ -372,6 +372,6 @@
 
  * [glVertexAttribPointer](opengles20reference/glVertexAttribPointer.md) :$简介$
 
- * [glViewport](opengles20reference/glViewport.md) :$简介$
+ * [glViewport](opengles20reference/glViewport.md) :设置视口。只有绘制在视口区域内的图形才能被显示。
 
 

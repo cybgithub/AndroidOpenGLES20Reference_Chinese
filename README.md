@@ -144,9 +144,7 @@
 
  * [glGetAttribLocation](opengles20reference/glGetAttribLocation.md) :$简介$
 
- * [glGetBooleanv](opengles20reference/glGetBooleanv.md) :$简介$
-
- * [glGetBooleanv](opengles20reference/glGetBooleanv.md) :$简介$
+ * [glGetBooleanv](opengles20reference/glGet.md) :$简介$
 
  * [glGetBufferParameteriv](opengles20reference/glGetBufferParameteriv.md) :$简介$
 
@@ -154,17 +152,13 @@
 
  * [glGetError](opengles20reference/glGetError.md) :$简介$
 
- * [glGetFloatv](opengles20reference/glGetFloatv.md) :$简介$
-
- * [glGetFloatv](opengles20reference/glGetFloatv.md) :$简介$
+ * [glGetFloatv](opengles20reference/glGet.md) :$简介$
 
  * [glGetFramebufferAttachmentParameteriv](opengles20reference/glGetFramebufferAttachmentParameteriv.md) :$简介$
 
  * [glGetFramebufferAttachmentParameteriv](opengles20reference/glGetFramebufferAttachmentParameteriv.md) :$简介$
 
- * [glGetIntegerv](opengles20reference/glGetIntegerv.md) :$简介$
-
- * [glGetIntegerv](opengles20reference/glGetIntegerv.md) :$简介$
+ * [glGetIntegerv](opengles20reference/glGet.md) :$简介$
 
  * [glGetProgramInfoLog](opengles20reference/glGetProgramInfoLog.md) :$简介$
 
@@ -378,6 +372,6 @@
 
  * [glVertexAttribPointer](opengles20reference/glVertexAttribPointer.md) :$简介$
 
- * [glViewport](opengles20reference/glViewport.md) :$简介$
+ * [glViewport](opengles20reference/glViewport.md) :设置视口。只有绘制在视口区域内的图形才能被显示。
 
 

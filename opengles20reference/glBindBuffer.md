@@ -1,6 +1,6 @@
 ##Name
 
-`glBindBuffer` — 绑定指定名称的服务器缓冲区对象。
+`glBindBuffer` — 绑定指定名称的缓冲区对象。
 
 ##C Specification
 

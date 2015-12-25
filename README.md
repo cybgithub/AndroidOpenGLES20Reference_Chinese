@@ -6,7 +6,7 @@
 
  * [glBindAttribLocation](opengles20reference/glBindAttribLocation.md) :$简介$
 
- * [glBindBuffer](opengles20reference/glBindBuffer.md) : 绑定指定名称的服务器缓冲区对象
+ * [glBindBuffer](opengles20reference/glBindBuffer.md) : 绑定指定名称的服务机缓冲区对象
 
  * [glBindFramebuffer](opengles20reference/glBindFramebuffer.md) :$简介$
 

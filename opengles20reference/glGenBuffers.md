@@ -13,8 +13,9 @@
 
 ##C Parameters
 
-- ***n*** 需要生成的名称数量。
-- ***buffers*** 存储生成的缓冲区对象名称的数组。
+- ***n*** Specifies the number of buffer object names to be generated.
+
+- ***buffers*** Specifies an array in which the generated buffer object names are stored.
 
 ##Android Parameters
 

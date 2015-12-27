@@ -24,7 +24,7 @@
 
  * [glBlendFuncSeparate](opengles20reference/glBlendFuncSeparate.md) :$简介$
 
- * [glBufferData](opengles20reference/glBufferData.md) :$简介$
+ * [glBufferData](opengles20reference/glBufferData.md) :创建并初始化缓冲区对象的数据。
 
  * [glBufferSubData](opengles20reference/glBufferSubData.md) :$简介$
 
@@ -100,7 +100,7 @@
 
  * [glFrontFace](opengles20reference/glFrontFace.md) :$简介$
 
- * [glGenBuffers](opengles20reference/glGenBuffers.md) :$简介$
+ * [glGenBuffers](opengles20reference/glGenBuffers.md) :生成未使用的缓冲区对象名称。
 
  * [glGenFramebuffers](opengles20reference/glGenFramebuffers.md) :$简介$
 
@@ -113,14 +113,8 @@
  * [glGenerateMipmap](opengles20reference/glGenerateMipmap.md) :$简介$
 
  * [glGetActiveAttrib](opengles20reference/glGetActiveAttrib.md) :$简介$
- * 
- * [glGetActiveUniform](opengles20reference/glGetActiveUniform.md) :$简介$
 
  * [glGetActiveUniform](opengles20reference/glGetActiveUniform.md) :$简介$
-
- * [glGetActiveUniform](opengles20reference/glGetActiveUniform.md) :$简介$
-
- * [glGetAttachedShaders](opengles20reference/glGetAttachedShaders.md) :$简介$
 
  * [glGetAttachedShaders](opengles20reference/glGetAttachedShaders.md) :$简介$
 
@@ -130,13 +124,9 @@
 
  * [glGetBufferParameteriv](opengles20reference/glGetBufferParameteriv.md) :$简介$
 
- * [glGetBufferParameteriv](opengles20reference/glGetBufferParameteriv.md) :$简介$
-
  * [glGetError](opengles20reference/glGetError.md) :$简介$
 
  * [glGetFloatv](opengles20reference/glGet.md) :$简介$
-
- * [glGetFramebufferAttachmentParameteriv](opengles20reference/glGetFramebufferAttachmentParameteriv.md) :$简介$
 
  * [glGetFramebufferAttachmentParameteriv](opengles20reference/glGetFramebufferAttachmentParameteriv.md) :$简介$
 
@@ -145,10 +135,6 @@
  * [glGetProgramInfoLog](opengles20reference/glGetProgramInfoLog.md) :$简介$
 
  * [glGetProgramiv](opengles20reference/glGetProgramiv.md) :$简介$
-
- * [glGetProgramiv](opengles20reference/glGetProgramiv.md) :$简介$
-
- * [glGetRenderbufferParameteriv](opengles20reference/glGetRenderbufferParameteriv.md) :$简介$
 
  * [glGetRenderbufferParameteriv](opengles20reference/glGetRenderbufferParameteriv.md) :$简介$
 
@@ -236,8 +222,6 @@
 
  * [glUniform1fv](opengles20reference/glUniform1fv.md) :$简介$
 
- * [glUniform1fv](opengles20reference/glUniform1fv.md) :$简介$
-
  * [glUniform1i](opengles20reference/glUniform1i.md) :$简介$
 
  * [glUniform1iv](opengles20reference/glUniform1iv.md) :$简介$
@@ -277,8 +261,6 @@
  * [glValidateProgram](opengles20reference/glValidateProgram.md) :$简介$
 
  * [glVertexAttrib1f](opengles20reference/glVertexAttrib1f.md) :$简介$
-
- * [glVertexAttrib1fv](opengles20reference/glVertexAttrib1fv.md) :$简介$
 
  * [glVertexAttrib1fv](opengles20reference/glVertexAttrib1fv.md) :$简介$
 

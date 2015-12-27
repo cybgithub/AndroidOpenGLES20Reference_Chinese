@@ -1,8 +1,8 @@
 ##Name
 
-`glEnableVertexAttribArray` - 激活一个顶点数组。
+`glEnableVertexAttribArray` - 激活一个顶点属性数组。
 
-`glDisableVertexAttribArray` - 取消一个顶点数组的激活状态。
+`glDisableVertexAttribArray` - 取消一个顶点属性数组的激活状态。
 
 ##C Specification
 
@@ -18,13 +18,13 @@
 
 ##Parameters
 
-- ***index*** 指定顶点数组的索引。
+- ***index*** 指定顶点属性数组的索引。
 
 ##Description
 
 `glEnableVertexAttribArray` enables the generic vertex attribute array specified by index. `glDisableVertexAttribArray` disables the generic vertex attribute array specified by index. By default, all client-side capabilities are disabled, including all generic vertex attribute arrays. If enabled, the values in the generic vertex attribute array will be accessed and used for rendering when calls are made to vertex array commands such as `glDrawArrays` or `glDrawElements`.
 
-`glEnableVertexAttribArray` 可以激活指定索引的顶点数组。 `glDisableVertexAttribArray` 可以取消激活指定索引的顶点数组。所有应用程序(客户机)上的容器一开始都是没有被激活的，包括顶点数组。当它们被激活之后才可以被`glDrawArrays`或`glDrawElements`这类函数所读取、渲染。
+`glEnableVertexAttribArray` 可以激活指定索引的顶点属性数组。 `glDisableVertexAttribArray` 可以取消激活指定索引的顶点属性数组。所有应用程序(客户机)上的容器一开始都是没有被激活的，包括顶点属性数组。当它们被激活之后才可以被`glDrawArrays`或`glDrawElements`这类函数所读取、渲染。
 
 ##Errors
 

@@ -6,6 +6,10 @@
 
     void glBufferData(  GLenum target, GLsizeiptr size, const GLvoid * data, GLenum usage);
 
+##Android Specification
+
+    void glBufferData (int target, int size, Buffer data, int usage)
+
 ##C Parameters
 
 - ***target*** Specifies the target buffer object. The symbolic constant must be GL_ARRAY_BUFFER or GL_ELEMENT_ARRAY_BUFFER.
@@ -15,10 +19,6 @@
 - ***data*** Specifies a pointer to data that will be copied into the data store for initialization, or NULL if no data is to be copied.
 
 - ***usage*** Specifies the expected usage pattern of the data store. The symbolic constant must be `GL_STREAM_DRAW`, `GL_STATIC_DRAW`, or `GL_DYNAMIC_DRAW`.
-
-##Android Specification
-
-    void glBufferData (int target, int size, Buffer data, int usage)
 
 ##Android Parameters
 

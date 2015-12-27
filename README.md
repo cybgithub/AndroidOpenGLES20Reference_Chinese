@@ -80,7 +80,7 @@
 
  * [glDisable](opengles20reference/glDisable.md) :$简介$
 
- * [glDisableVertexAttribArray](opengles20reference/glDisableVertexAttribArray.md) :$简介$
+ * [glDisableVertexAttribArray](opengles20reference/glEnableVertexAttribArray.md) :取消一个顶点数组的激活状态。
 
  * [glDrawArrays](opengles20reference/glDrawArrays.md) :$简介$
 
@@ -88,7 +88,7 @@
 
  * [glEnable](opengles20reference/glEnable.md) :$简介$
 
- * [glEnableVertexAttribArray](opengles20reference/glEnableVertexAttribArray.md) :$简介$
+ * [glEnableVertexAttribArray](opengles20reference/glEnableVertexAttribArray.md) :激活一个顶点数组。
 
  * [glFinish](opengles20reference/glFinish.md) :$简介$
 

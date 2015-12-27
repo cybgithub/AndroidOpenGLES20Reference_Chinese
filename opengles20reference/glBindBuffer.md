@@ -60,9 +60,9 @@ Once created, a named buffer object may be re-bound to any target as often as ne
 
 ##Associated Gets
 
-[glGet](glGet.md) with argument `GL_ARRAY_BUFFER_BINDING`
+[glGet](glGet.md) 配合`GL_ARRAY_BUFFER_BINDING`
 
-[glGet](glGet.md) with argument `GL_ELEMENT_ARRAY_BUFFER_BINDING`
+[glGet](glGet.md) 配合`GL_ELEMENT_ARRAY_BUFFER_BINDING`
 
 ##See Also
 

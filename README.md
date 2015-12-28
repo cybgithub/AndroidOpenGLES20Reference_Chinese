@@ -24,7 +24,7 @@
 
  * [glBlendFuncSeparate](opengles20reference/glBlendFuncSeparate.md) :$简介$
 
- * [glBufferData](opengles20reference/glBufferData.md) :$简介$
+ * [glBufferData](opengles20reference/glBufferData.md) :创建并初始化缓冲区对象的数据。
 
  * [glBufferSubData](opengles20reference/glBufferSubData.md) :$简介$
 
@@ -80,7 +80,7 @@
 
  * [glDisable](opengles20reference/glDisable.md) :$简介$
 
- * [glDisableVertexAttribArray](opengles20reference/glDisableVertexAttribArray.md) :$简介$
+ * [glDisableVertexAttribArray](opengles20reference/glEnableVertexAttribArray.md) :取消一个顶点属性数组的激活状态。
 
  * [glDrawArrays](opengles20reference/glDrawArrays.md) :$简介$
 
@@ -88,7 +88,7 @@
 
  * [glEnable](opengles20reference/glEnable.md) :$简介$
 
- * [glEnableVertexAttribArray](opengles20reference/glEnableVertexAttribArray.md) :$简介$
+ * [glEnableVertexAttribArray](opengles20reference/glEnableVertexAttribArray.md) :激活一个顶点属性数组。
 
  * [glFinish](opengles20reference/glFinish.md) :$简介$
 
@@ -100,7 +100,7 @@
 
  * [glFrontFace](opengles20reference/glFrontFace.md) :$简介$
 
- * [glGenBuffers](opengles20reference/glGenBuffers.md) :$简介$
+ * [glGenBuffers](opengles20reference/glGenBuffers.md) :生成未使用的缓冲区对象名称。
 
  * [glGenFramebuffers](opengles20reference/glGenFramebuffers.md) :$简介$
 
@@ -113,14 +113,8 @@
  * [glGenerateMipmap](opengles20reference/glGenerateMipmap.md) :$简介$
 
  * [glGetActiveAttrib](opengles20reference/glGetActiveAttrib.md) :$简介$
- * 
- * [glGetActiveUniform](opengles20reference/glGetActiveUniform.md) :$简介$
 
  * [glGetActiveUniform](opengles20reference/glGetActiveUniform.md) :$简介$
-
- * [glGetActiveUniform](opengles20reference/glGetActiveUniform.md) :$简介$
-
- * [glGetAttachedShaders](opengles20reference/glGetAttachedShaders.md) :$简介$
 
  * [glGetAttachedShaders](opengles20reference/glGetAttachedShaders.md) :$简介$
 
@@ -130,13 +124,9 @@
 
  * [glGetBufferParameteriv](opengles20reference/glGetBufferParameteriv.md) :$简介$
 
- * [glGetBufferParameteriv](opengles20reference/glGetBufferParameteriv.md) :$简介$
-
  * [glGetError](opengles20reference/glGetError.md) :$简介$
 
  * [glGetFloatv](opengles20reference/glGet.md) :$简介$
-
- * [glGetFramebufferAttachmentParameteriv](opengles20reference/glGetFramebufferAttachmentParameteriv.md) :$简介$
 
  * [glGetFramebufferAttachmentParameteriv](opengles20reference/glGetFramebufferAttachmentParameteriv.md) :$简介$
 
@@ -145,10 +135,6 @@
  * [glGetProgramInfoLog](opengles20reference/glGetProgramInfoLog.md) :$简介$
 
  * [glGetProgramiv](opengles20reference/glGetProgramiv.md) :$简介$
-
- * [glGetProgramiv](opengles20reference/glGetProgramiv.md) :$简介$
-
- * [glGetRenderbufferParameteriv](opengles20reference/glGetRenderbufferParameteriv.md) :$简介$
 
  * [glGetRenderbufferParameteriv](opengles20reference/glGetRenderbufferParameteriv.md) :$简介$
 
@@ -236,8 +222,6 @@
 
  * [glUniform1fv](opengles20reference/glUniform1fv.md) :$简介$
 
- * [glUniform1fv](opengles20reference/glUniform1fv.md) :$简介$
-
  * [glUniform1i](opengles20reference/glUniform1i.md) :$简介$
 
  * [glUniform1iv](opengles20reference/glUniform1iv.md) :$简介$
@@ -280,8 +264,6 @@
 
  * [glVertexAttrib1fv](opengles20reference/glVertexAttrib1fv.md) :$简介$
 
- * [glVertexAttrib1fv](opengles20reference/glVertexAttrib1fv.md) :$简介$
-
  * [glVertexAttrib2f](opengles20reference/glVertexAttrib2f.md) :$简介$
 
  * [glVertexAttrib2fv](opengles20reference/glVertexAttrib2fv.md) :$简介$
@@ -294,7 +276,7 @@
 
  * [glVertexAttrib4fv](opengles20reference/glVertexAttrib4fv.md) :$简介$
  * 
- * [glVertexAttribPointer](opengles20reference/glVertexAttribPointer.md) :$简介$
+ * [glVertexAttribPointer](opengles20reference/glVertexAttribPointer.md) :指定顶点属性数组的数据位置。
 
  * [glViewport](opengles20reference/glViewport.md) :设置视口。只有绘制在视口区域内的图形才能被显示。
 

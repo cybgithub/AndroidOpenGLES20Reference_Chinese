@@ -218,43 +218,10 @@
 
  * [glTexSubImage2D](opengles20reference/glTexSubImage2D.md) :$简介$
 
- * [glUniform1f](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform1fv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform1i](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform1iv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform2f](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform2fv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform2i](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform2iv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform3f](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform3fv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform3i](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform3iv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform4f](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform4fv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform4i](opengles20reference/glUniform.md) :$简介$
-
- * [glUniform4iv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniformMatrix2fv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniformMatrix3fv](opengles20reference/glUniform.md) :$简介$
-
- * [glUniformMatrix4fv](opengles20reference/glUniform.md) :$简介$
+ * [glUniform](opengles20reference/glUniform.md) :修改一致变量的值。其中有：
+ 
+    + `glUniform1f`, `glUniform1fv`, `glUniform1i`, `glUniform1iv`, `glUniform2f`, `glUniform2fv`, `glUniform2i`, `glUniform2iv`, `glUniform3f`, `glUniform3fv`, `glUniform3i`, `glUniform3iv`, `glUniform4f`, `glUniform4fv`, `glUniform4i`, `glUniform4iv`；
+    + `glUniformMatrix2fv`, `glUniformMatrix3fv`, `glUniformMatrix4fv`。
 
  * [glUseProgram](opengles20reference/glUseProgram.md) :$简介$
 
@@ -275,7 +242,7 @@
  * [glVertexAttrib4f](opengles20reference/glVertexAttrib4f.md) :$简介$
 
  * [glVertexAttrib4fv](opengles20reference/glVertexAttrib4fv.md) :$简介$
- * 
+
  * [glVertexAttribPointer](opengles20reference/glVertexAttribPointer.md) :指定顶点属性数组的数据位置。
 
  * [glViewport](opengles20reference/glViewport.md) :设置视口。只有绘制在视口区域内的图形才能被显示。

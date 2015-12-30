@@ -218,43 +218,43 @@
 
  * [glTexSubImage2D](opengles20reference/glTexSubImage2D.md) :$简介$
 
- * [glUniform1f](opengles20reference/glUniform1f.md) :$简介$
+ * [glUniform1f](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform1fv](opengles20reference/glUniform1fv.md) :$简介$
+ * [glUniform1fv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform1i](opengles20reference/glUniform1i.md) :$简介$
+ * [glUniform1i](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform1iv](opengles20reference/glUniform1iv.md) :$简介$
+ * [glUniform1iv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform2f](opengles20reference/glUniform2f.md) :$简介$
+ * [glUniform2f](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform2fv](opengles20reference/glUniform2fv.md) :$简介$
+ * [glUniform2fv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform2i](opengles20reference/glUniform2i.md) :$简介$
+ * [glUniform2i](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform2iv](opengles20reference/glUniform2iv.md) :$简介$
+ * [glUniform2iv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform3f](opengles20reference/glUniform3f.md) :$简介$
+ * [glUniform3f](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform3fv](opengles20reference/glUniform3fv.md) :$简介$
+ * [glUniform3fv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform3i](opengles20reference/glUniform3i.md) :$简介$
+ * [glUniform3i](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform3iv](opengles20reference/glUniform3iv.md) :$简介$
+ * [glUniform3iv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform4f](opengles20reference/glUniform4f.md) :$简介$
+ * [glUniform4f](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform4fv](opengles20reference/glUniform4fv.md) :$简介$
+ * [glUniform4fv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform4i](opengles20reference/glUniform4i.md) :$简介$
+ * [glUniform4i](opengles20reference/glUniform.md) :$简介$
 
- * [glUniform4iv](opengles20reference/glUniform4iv.md) :$简介$
+ * [glUniform4iv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniformMatrix2fv](opengles20reference/glUniformMatrix2fv.md) :$简介$
+ * [glUniformMatrix2fv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniformMatrix3fv](opengles20reference/glUniformMatrix3fv.md) :$简介$
+ * [glUniformMatrix3fv](opengles20reference/glUniform.md) :$简介$
 
- * [glUniformMatrix4fv](opengles20reference/glUniformMatrix4fv.md) :$简介$
+ * [glUniformMatrix4fv](opengles20reference/glUniform.md) :$简介$
 
  * [glUseProgram](opengles20reference/glUseProgram.md) :$简介$
 

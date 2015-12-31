@@ -50,7 +50,7 @@
 
  * [glCopyTexSubImage2D](opengles20reference/glCopyTexSubImage2D.md) :$简介$
 
- * [glCreateProgram](opengles20reference/glCreateProgram.md) :$简介$
+ * [glCreateProgram](opengles20reference/glCreateProgram.md) :创建程序对象。
 
  * [glCreateShader](opengles20reference/glCreateShader.md) :$简介$
 
@@ -223,7 +223,7 @@
     + `glUniform1f`, `glUniform1fv`, `glUniform1i`, `glUniform1iv`, `glUniform2f`, `glUniform2fv`, `glUniform2i`, `glUniform2iv`, `glUniform3f`, `glUniform3fv`, `glUniform3i`, `glUniform3iv`, `glUniform4f`, `glUniform4fv`, `glUniform4i`, `glUniform4iv`；
     + `glUniformMatrix2fv`, `glUniformMatrix3fv`, `glUniformMatrix4fv`。
 
- * [glUseProgram](opengles20reference/glUseProgram.md) :$简介$
+ * [glUseProgram](opengles20reference/glUseProgram.md) :将程序对象的可执行程序安装到当前OPENGL渲染状态机中。
 
  * [glValidateProgram](opengles20reference/glValidateProgram.md) :$简介$
 

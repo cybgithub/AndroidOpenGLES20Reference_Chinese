@@ -32,11 +32,11 @@ The actual locations assigned to uniform variables are not known until the progr
 
 ##Errors
 
-`GL_INVALID_VALUE` - program不是被opengl生成的句柄。
+`GL_INVALID_VALUE` - 传入的program不是被opengl生成的句柄。
 
-`GL_INVALID_OPERATION` - program指向的对象不是一个程序对象。
+`GL_INVALID_OPERATION` - 传入的program指向的对象不是一个程序对象。
 
-`GL_INVALID_OPERATION` - program指向的程序对象没有被链接。
+`GL_INVALID_OPERATION` - 传入的program指向的程序对象没有被链接。
 
 ##Associated Gets
 

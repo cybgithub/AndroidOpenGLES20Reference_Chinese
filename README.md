@@ -174,7 +174,7 @@
 
  * [glLineWidth](opengles20reference/glLineWidth.md) :$简介$
 
- * [glLinkProgram](opengles20reference/glLinkProgram.md) :$简介$
+ * [glLinkProgram](opengles20reference/glLinkProgram.md) :链接程序对象中的程序。
 
  * [glPixelStorei](opengles20reference/glPixelStorei.md) :$简介$
 

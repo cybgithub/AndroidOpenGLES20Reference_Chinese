@@ -150,7 +150,7 @@
 
  * [glGetTexParameterfv](opengles20reference/glGetTexParameterfv.md) :$简介$
 
- * [glGetUniformLocation](opengles20reference/glGetUniformLocation.md) :$简介$
+ * [glGetUniformLocation](opengles20reference/glGetUniformLocation.md) :获取一致变量的位置。
 
  * [glGetUniformfv](opengles20reference/glGetUniformfv.md) :$简介$
 

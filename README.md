@@ -50,7 +50,7 @@
 
  * [glCopyTexSubImage2D](opengles20reference/glCopyTexSubImage2D.md) :$简介$
 
- * [glCreateProgram](opengles20reference/glCreateProgram.md) :$简介$
+ * [glCreateProgram](opengles20reference/glCreateProgram.md) :创建程序对象。
 
  * [glCreateShader](opengles20reference/glCreateShader.md) :$简介$
 
@@ -150,7 +150,7 @@
 
  * [glGetTexParameterfv](opengles20reference/glGetTexParameterfv.md) :$简介$
 
- * [glGetUniformLocation](opengles20reference/glGetUniformLocation.md) :$简介$
+ * [glGetUniformLocation](opengles20reference/glGetUniformLocation.md) :获取一致变量的位置。
 
  * [glGetUniformfv](opengles20reference/glGetUniformfv.md) :$简介$
 
@@ -174,7 +174,7 @@
 
  * [glLineWidth](opengles20reference/glLineWidth.md) :$简介$
 
- * [glLinkProgram](opengles20reference/glLinkProgram.md) :$简介$
+ * [glLinkProgram](opengles20reference/glLinkProgram.md) :链接程序对象中的程序。
 
  * [glPixelStorei](opengles20reference/glPixelStorei.md) :$简介$
 
@@ -218,45 +218,12 @@
 
  * [glTexSubImage2D](opengles20reference/glTexSubImage2D.md) :$简介$
 
- * [glUniform1f](opengles20reference/glUniform1f.md) :$简介$
+ * [glUniform](opengles20reference/glUniform.md) :修改一致变量的值。其中有：
+ 
+    + `glUniform1f`, `glUniform1fv`, `glUniform1i`, `glUniform1iv`, `glUniform2f`, `glUniform2fv`, `glUniform2i`, `glUniform2iv`, `glUniform3f`, `glUniform3fv`, `glUniform3i`, `glUniform3iv`, `glUniform4f`, `glUniform4fv`, `glUniform4i`, `glUniform4iv`；
+    + `glUniformMatrix2fv`, `glUniformMatrix3fv`, `glUniformMatrix4fv`。
 
- * [glUniform1fv](opengles20reference/glUniform1fv.md) :$简介$
-
- * [glUniform1i](opengles20reference/glUniform1i.md) :$简介$
-
- * [glUniform1iv](opengles20reference/glUniform1iv.md) :$简介$
-
- * [glUniform2f](opengles20reference/glUniform2f.md) :$简介$
-
- * [glUniform2fv](opengles20reference/glUniform2fv.md) :$简介$
-
- * [glUniform2i](opengles20reference/glUniform2i.md) :$简介$
-
- * [glUniform2iv](opengles20reference/glUniform2iv.md) :$简介$
-
- * [glUniform3f](opengles20reference/glUniform3f.md) :$简介$
-
- * [glUniform3fv](opengles20reference/glUniform3fv.md) :$简介$
-
- * [glUniform3i](opengles20reference/glUniform3i.md) :$简介$
-
- * [glUniform3iv](opengles20reference/glUniform3iv.md) :$简介$
-
- * [glUniform4f](opengles20reference/glUniform4f.md) :$简介$
-
- * [glUniform4fv](opengles20reference/glUniform4fv.md) :$简介$
-
- * [glUniform4i](opengles20reference/glUniform4i.md) :$简介$
-
- * [glUniform4iv](opengles20reference/glUniform4iv.md) :$简介$
-
- * [glUniformMatrix2fv](opengles20reference/glUniformMatrix2fv.md) :$简介$
-
- * [glUniformMatrix3fv](opengles20reference/glUniformMatrix3fv.md) :$简介$
-
- * [glUniformMatrix4fv](opengles20reference/glUniformMatrix4fv.md) :$简介$
-
- * [glUseProgram](opengles20reference/glUseProgram.md) :$简介$
+ * [glUseProgram](opengles20reference/glUseProgram.md) :将程序对象的可执行程序安装到当前OPENGL渲染状态机中。
 
  * [glValidateProgram](opengles20reference/glValidateProgram.md) :$简介$
 
@@ -275,9 +242,7 @@
  * [glVertexAttrib4f](opengles20reference/glVertexAttrib4f.md) :$简介$
 
  * [glVertexAttrib4fv](opengles20reference/glVertexAttrib4fv.md) :$简介$
- * 
+
  * [glVertexAttribPointer](opengles20reference/glVertexAttribPointer.md) :指定顶点属性数组的数据位置。
 
  * [glViewport](opengles20reference/glViewport.md) :设置视口。只有绘制在视口区域内的图形才能被显示。
-
-

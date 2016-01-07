@@ -4,7 +4,7 @@
 
  * [glAttachShader](opengles20reference/glAttachShader.md) : 将一个着色器（Shader）对象绑定（Attach）到一个程序（Program）对象。
 
- * [glBindAttribLocation](opengles20reference/glBindAttribLocation.md) :$简介$
+ * [glBindAttribLocation](opengles20reference/glBindAttribLocation.md) :为顶点属性变量绑定索引。
 
  * [glBindBuffer](opengles20reference/glBindBuffer.md) : 绑定指定名称的缓冲区对象
 
@@ -218,7 +218,7 @@
 
  * [glTexSubImage2D](opengles20reference/glTexSubImage2D.md) :$简介$
 
- * [glUniform](opengles20reference/glUniform.md) :修改一致变量的值。其中有：
+ * [glUniform](opengles20reference/glUniform.md) :（系列函数）修改一致变量的值。其中有：
  
     + `glUniform1f`, `glUniform1fv`, `glUniform1i`, `glUniform1iv`, `glUniform2f`, `glUniform2fv`, `glUniform2i`, `glUniform2iv`, `glUniform3f`, `glUniform3fv`, `glUniform3i`, `glUniform3iv`, `glUniform4f`, `glUniform4fv`, `glUniform4i`, `glUniform4iv`；
     + `glUniformMatrix2fv`, `glUniformMatrix3fv`, `glUniformMatrix4fv`。
@@ -227,21 +227,8 @@
 
  * [glValidateProgram](opengles20reference/glValidateProgram.md) :$简介$
 
- * [glVertexAttrib1f](opengles20reference/glVertexAttrib1f.md) :$简介$
-
- * [glVertexAttrib1fv](opengles20reference/glVertexAttrib1fv.md) :$简介$
-
- * [glVertexAttrib2f](opengles20reference/glVertexAttrib2f.md) :$简介$
-
- * [glVertexAttrib2fv](opengles20reference/glVertexAttrib2fv.md) :$简介$
-
- * [glVertexAttrib3f](opengles20reference/glVertexAttrib3f.md) :$简介$
-
- * [glVertexAttrib3fv](opengles20reference/glVertexAttrib3fv.md) :$简介$
-
- * [glVertexAttrib4f](opengles20reference/glVertexAttrib4f.md) :$简介$
-
- * [glVertexAttrib4fv](opengles20reference/glVertexAttrib4fv.md) :$简介$
+ * [glVertexAttrib](opengles20reference/glVertexAttrib.md): （系列函数）修改属性变量的值。其中有：
+    + `glVertexAttrib1f`, `glVertexAttrib1fv`, `glVertexAttrib2f`, `glVertexAttrib2fv`, `glVertexAttrib3f`, `glVertexAttrib3fv`, `glVertexAttrib4f`, `glVertexAttrib4fv`。
 
  * [glVertexAttribPointer](opengles20reference/glVertexAttribPointer.md) :指定顶点属性数组的数据位置。
 

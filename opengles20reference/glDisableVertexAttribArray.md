@@ -1,1 +1,0 @@
-void glDisableVertexAttribArray (int index)

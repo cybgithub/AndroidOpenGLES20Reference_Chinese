@@ -82,7 +82,7 @@
 
  * [glDisableVertexAttribArray](opengles20reference/glEnableVertexAttribArray.md) :取消一个顶点属性数组的激活状态。
 
- * [glDrawArrays](opengles20reference/glDrawArrays.md) :$简介$
+ * [glDrawArrays](opengles20reference/glDrawArrays.md) :将当前“状态”中的数据渲染成基本图元。
 
  * [glDrawElements](opengles20reference/glDrawElements.md) :$简介$
 
@@ -118,7 +118,7 @@
 
  * [glGetAttachedShaders](opengles20reference/glGetAttachedShaders.md) :$简介$
 
- * [glGetAttribLocation](opengles20reference/glGetAttribLocation.md) :$简介$
+ * [glGetAttribLocation](opengles20reference/glGetAttribLocation.md) :获取顶点属性变量的位置。
 
  * [glGetBooleanv](opengles20reference/glGet.md) :$简介$
 
@@ -164,7 +164,7 @@
 
  * [glIsFramebuffer](opengles20reference/glIsFramebuffer.md) :$简介$
 
- * [glIsProgram](opengles20reference/glIsProgram.md) :$简介$
+ * [glIsProgram](opengles20reference/glIsProgram.md) :查看指定句柄是否是程序对象。
 
  * [glIsRenderbuffer](opengles20reference/glIsRenderbuffer.md) :$简介$
 

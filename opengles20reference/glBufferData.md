@@ -12,7 +12,7 @@
 
 ##C Parameters
 
-- ***target*** Specifies the target buffer object. The symbolic constant must be GL_ARRAY_BUFFER or GL_ELEMENT_ARRAY_BUFFER.
+- ***target*** Specifies the target buffer object. The symbolic constant must be `GL_ARRAY_BUFFER` or `GL_ELEMENT_ARRAY_BUFFER`.
 
 - ***size*** Specifies the size in bytes of the buffer object's new data store.
 
